@@ -1,11 +1,6 @@
 package com.kodnest.arraysoct;
 
 
-1. even elements of an Array 
-2. odd elenents of an Array
-3. even index values of an Array
-4. odd inded values of an Array
-
 
 
 
